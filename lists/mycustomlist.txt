@@ -1,0 +1,7 @@
+https://analyticsengine.s3.amazonaws.com
+https://affiliationjs.s3.amazonaws.com
+https://advertising-api-eu.amazon.com
+https://app.getsentry.com
+https://d.reddit.com/
+https://advertising.twitter.com/
+@@||canyoublockit.com^$ghide
