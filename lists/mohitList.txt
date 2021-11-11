@@ -12,6 +12,7 @@ https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
+https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 
 # Other uBlock Origin filters
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
@@ -37,4 +38,4 @@ https://easylist.to/easylist/fanboy-social.txt
 # Annoyances on Twitter
 
 # My own block list
-https://github.com/mohitmujawdiya/filtrite/blob/main/lists/mycustomlist.txt
+https://raw.githubusercontent.com/mohitmujawdiya/filtrite/main/lists/mycustomlist.txt
