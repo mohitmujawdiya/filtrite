@@ -37,10 +37,4 @@ https://easylist.to/easylist/fanboy-social.txt
 # Annoyances on Twitter
 
 # My own block list
-https://analyticsengine.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://app.getsentry.com
-https://d.reddit.com/
-https://advertising.twitter.com/
-@@||canyoublockit.com^$ghide
+https://github.com/mohitmujawdiya/filtrite/blob/main/lists/mycustomlist.txt
